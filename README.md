@@ -6,9 +6,11 @@
 
 CompTIA-certified support technician with a background in field engineering at Openreach and a self-built Windows Server lab I use for daily hands-on practice. I resolve Windows, hardware, account and connectivity issues end to end, log and prioritise tickets to SLA, and explain technical problems clearly to non-technical users.
 
-[![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-E2231A?style=for-the-badge&logo=comptia&logoColor=white)](#)
-[![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B-E2231A?style=for-the-badge&logo=comptia&logoColor=white)](#)
-[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-E2231A?style=for-the-badge&logo=comptia&logoColor=white)](#)
+<a href="https://www.credly.com/badges/8f1ab797-003d-423c-9825-7d27ce1716fe/public_url"><img src="comptia-aplus.png" alt="CompTIA A+ — verified on Credly" height="120"></a>
+&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/afa29faa-f424-454d-8944-ab14d795cdb7/public_url"><img src="comptia-network-plus.png" alt="CompTIA Network+ — verified on Credly" height="120"></a>
+&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/13d612cc-f6b3-4400-9657-f7be92d9012d/public_url"><img src="comptia-security-plus.png" alt="CompTIA Security+ — verified on Credly" height="120"></a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/romeldawson)
 [![Email](https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:romel.dawson@proton.me)
