@@ -12,10 +12,6 @@ CompTIA-certified support technician with a background in field engineering at O
 &nbsp;&nbsp;
 <a href="https://www.credly.com/badges/13d612cc-f6b3-4400-9657-f7be92d9012d/public_url"><img src="comptia-security-plus.png" alt="CompTIA Security+ — verified on Credly" height="120"></a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/romeldawson)
-[![Email](https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:romel.dawson@proton.me)
-![Location](https://img.shields.io/badge/London,_UK-555555?style=for-the-badge&logo=googlemaps&logoColor=white)
-
 </div>
 
 ---
